@@ -30,7 +30,7 @@ CLASSES
 - ArticleDatabase.java: ten sample levels, shuffled at the start/retry.
 
 GAME RULES
-- Starts at 50% credibility.
+- Starts at 0% credibility.
 - Each level: the MAIN NEWS is shown enlarged for 20 seconds (Continue can skip the wait).
 - Then the main news is MINIMIZED in the middle of the screen and the TWO ARTICLES appear
   MINIMIZED at the bottom. Each of the three cards has an Enlarge / Minimize toggle.
